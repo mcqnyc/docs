@@ -27,7 +27,7 @@ pow(x, y, z)
 Use `pow()` to return the result of 5 to the power of 3:
 
 ```codebyte/python
-print(pow(5,3)))
+print(pow(5,3))
 ```
 
 ## Example 2
